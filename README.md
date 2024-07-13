@@ -1,16 +1,24 @@
-# dicee_flutter
+# Dicee Flutter App
 
-A new Dicee Flutter project.
+## Description
+
+Dicee Flutter is a simple Flutter application that simulates rolling two dice. The app displays two dice images, and when you click on either of the dice, both dice will change to show a new random value between 1 and 6. This project serves as a fun and interactive way to get familiar with Flutter basics, including state management and handling user interactions.
+
+## Features
+
+- Displays two dice with images representing values from 1 to 6.
+- Click on either dice to roll and update both dice with new random values.
+- Simple and intuitive user interface.
+
+## Screenshots
+
+![Dicee Flutter Screenshot](https://raw.githubusercontent.com/londonappbrewery/Images/master/dicee-demo.gif)
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+### Prerequisites
 
-A few resources to get you started if this is your first Flutter project:
+Before you begin, ensure you have met the following requirements:
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+- You have installed Flutter and Dart on your local machine. Follow the [official Flutter installation guide](https://flutter.dev/docs/get-started/install) for detailed instructions.
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
